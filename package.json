@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.1",
-    "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.13.0",
+    "@astrojs/tailwind": "^6.0.0",
+    "astro": "^5.0.0",
     "canvas-confetti": "^1.9.3",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.5.4"
